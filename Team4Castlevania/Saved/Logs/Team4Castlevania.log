@@ -698,3 +698,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.03-17.35.39:521][106]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D886FDE340), frame # 2106
 [2021.02.03-17.35.39:522][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2021.02.03-17.35.39:543][107]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.02.03-17.43.56:836][873]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.03-17.49.31:266][127]LogSlate: Window 'Save Level As' being destroyed
+[2021.02.03-17.49.31:501][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sample" FILE="../../../../../../Programming/Unreal Projects/Castlevania/Team4Castlevania/Content/Sample.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.03-17.49.31:551][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.02.03-17.49.31:749][127]LogSavePackage: Moving '../../../../../../Programming/Unreal Projects/Castlevania/Team4Castlevania/Saved/SampleA04F57424BE2EB14C07FF1BDE88D64E0.tmp' to '../../../../../../Programming/Unreal Projects/Castlevania/Team4Castlevania/Content/Sample.umap'
+[2021.02.03-17.49.31:801][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sample_BuiltData" FILE="../../../../../../Programming/Unreal Projects/Castlevania/Team4Castlevania/Content/Sample_BuiltData.uasset" SILENT=true
+[2021.02.03-17.49.31:833][127]LogSavePackage: Moving '../../../../../../Programming/Unreal Projects/Castlevania/Team4Castlevania/Saved/Sample_BuiltData477AC02C4C6A42F933E267BFFD58598D.tmp' to '../../../../../../Programming/Unreal Projects/Castlevania/Team4Castlevania/Content/Sample_BuiltData.uasset'
+[2021.02.03-17.49.31:849][127]LogFileHelpers: Saving map 'Sample' took 0.416
+[2021.02.03-17.49.31:874][127]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.03-17.49.31:874][127]LogContentValidation: Display: Validating World /Game/Sample.Sample
+[2021.02.03-17.49.31:874][127]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Sample_BuiltData.Sample_BuiltData
+[2021.02.03-17.49.31:937][127]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
