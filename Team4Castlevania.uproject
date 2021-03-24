@@ -31,5 +31,9 @@
 			"Name": "ApexDestruction",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"MacNoEditor",
+		"WindowsNoEditor"
 	]
 }
